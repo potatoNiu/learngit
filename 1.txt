@@ -1,0 +1,8 @@
+Git is a distributed version control system.
+a modify on dev
+<<<<<<< HEAD
+another modify on dev
+3 modify on dev
+=======
+another modify on dev
+>>>>>>> 8412c80... another modify on dev
